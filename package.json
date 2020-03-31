@@ -1,0 +1,11 @@
+{
+  "name": "talk-sobre-promises",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alvaro Separovich",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "node-fetch": "^2.6.0"
+  }
+}
